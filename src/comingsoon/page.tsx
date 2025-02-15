@@ -28,7 +28,7 @@ export default function ComingSoon() {
         </nav>
 
         {/* Main Content */}
-        <div className="text-center max-w-3xl mt-12">
+        <div className="text-center max-w-3xl mt-14">
           <h1 className="text-6xl font-extrabold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-500">AI Chatbots, Simplified</h1>
           <p className="text-lg text-gray-300 mb-6">Powerful, scalable, and intuitive AI chatbot solutions designed for businesses, agencies, and enterprises.</p>
           <p className="text-md text-yellow-400 font-semibold text-lg">🚀 Coming Soon! Stay updated.</p>
@@ -44,7 +44,7 @@ export default function ComingSoon() {
             />
             <button
               type="submit"
-              className="mt-3 sm:mt-0 sm:ml-3 bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg transition flex items-center gap-2 shadow-lg"
+              className="mt-3 sm:mt-0 sm:ml-3 bg-blue-600 hover:bg-blue-700 justify-center text-white font-bold py-3 px-6 rounded-lg transition flex items-center gap-2 shadow-lg"
             >
               <span>Notify Me</span>
               <Send className="w-4 h-4" />
