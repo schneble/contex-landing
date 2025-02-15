@@ -22,13 +22,13 @@ export default function ComingSoon() {
         {/* Navigation */}
         <nav className="flex items-center justify-between p-6 w-full max-w-7xl border-b border-gray-800">
           <div className="flex items-center space-x-2">
-            <Bot className="w-8 h-8 text-blue-500" />
-            <span className="text-2xl font-bold tracking-wide">Contex</span>
+            <Bot className="w-6 h-6 text-blue-500" />
+            <span className="text-xl font-bold tracking-wide">Contex</span>
           </div>
         </nav>
 
         {/* Main Content */}
-        <div className="text-center max-w-3xl mt-14">
+        <div className="text-center max-w-3xl mt-12">
           <h1 className="text-6xl font-extrabold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-500">AI Chatbots, Simplified</h1>
           <p className="text-lg text-gray-300 mb-6">Powerful, scalable, and intuitive AI chatbot solutions designed for businesses, agencies, and enterprises.</p>
           <p className="text-md text-yellow-400 font-semibold text-lg">🚀 Coming Soon! Stay updated.</p>
